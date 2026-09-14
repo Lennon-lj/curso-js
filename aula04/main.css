@@ -37,12 +37,18 @@ body{
     flex-direction: column;
 }
 
+#linkUm{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -70px;
+    margin-right: 10px;
+}
+
 .link{
     font-family: "Oswald";
     text-decoration: none;
     color: black;
-    justify-content: flex-end;
-    display: flex;
+    display: flex-end;
     margin-top: -70px;
     margin-right: 10px;
     gap: 50px;
