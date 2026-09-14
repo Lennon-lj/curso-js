@@ -18,7 +18,7 @@ body{
 
 #subtitulo{
     font-family: "Rubik";
-    background-color: rgb(255, 145, 0);
+    background-color: rgb(168, 168, 168);
     gap: 1px;
     align-items: center;
     display: flex;
@@ -40,8 +40,12 @@ body{
     gap: 50px;
 }
 
-#botao{
-    color:blue;
+#botaoUm{
+    color:rgb(253, 253, 255);
     display: flex;
-    background-color: aquamarine;
+    background-color: rgb(0, 140, 255);
+    border-radius: 5px;
+    font-family: "Rubik";
+    margin-bottom: 20px;
+    
 }
