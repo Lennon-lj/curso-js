@@ -47,16 +47,17 @@ body{
 
 #botaoUm{
     color:rgb(253, 253, 255);
-    display: flex;
+    
     background-color: rgb(0, 140, 255);
-    border-radius: 5px;
+    text-decoration: none;
     font-family: "Rubik";
+    font-size: 20px;
     margin-bottom: 20px;
     width: 100px;
     height: 45px;
     justify-content: center;
     border: none;
-    font-size: 20px;
-    text-decoration: none;
+    display: flex;
     padding: 10px;
+    border-radius: 5px;
 }
